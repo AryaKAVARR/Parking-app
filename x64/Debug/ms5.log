@@ -1,0 +1,19 @@
+﻿  Car.cpp
+F:\SEM 2\OOP244\ms5\Car.cpp(73,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Menu.cpp
+  Motorcycle.cpp
+F:\SEM 2\OOP244\ms5\Motorcycle.cpp(77,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Parking.cpp
+F:\SEM 2\OOP244\ms5\Parking.cpp(166,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\SEM 2\OOP244\ms5\Parking.cpp(192,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\SEM 2\OOP244\ms5\Parking.cpp(229,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\SEM 2\OOP244\ms5\Parking.cpp(252,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ReadWritable.cpp
+  Utils.cpp
+  Vehicle.cpp
+F:\SEM 2\OOP244\ms5\Vehicle.cpp(189,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\SEM 2\OOP244\ms5\Vehicle.cpp(286,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\SEM 2\OOP244\ms5\Vehicle.cpp(295,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ms5.vcxproj -> F:\SEM 2\OOP244\ms5\x64\Debug\ms5.exe
